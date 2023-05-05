@@ -1,0 +1,67 @@
+<!-- Edited by Kristen O'Donnell-->
+<!-- CSC 315 - 01 -->
+
+<html>
+    <head>
+	<style>
+    body {
+      background-color: lightgreen;
+      font-family: Tahoma, sans-serif;
+    }
+    h3 {
+      color: white;
+      text-align: center;
+      font-family: 'Courier New';
+	  font-size: 23px;
+    }
+	</style>
+        <title>Group 3 Webpage</title>
+    </head>
+    <body>
+	    <h3>Welcome to Group 3's CAB Project!</h3>
+
+	    <h4>Find total miles traveled and total vehicle emissons for a municipality:</h4>
+        <form action="/select-town" method="POST">
+            <div>
+                Type in municipality name
+                <input type="text" name="municipality">
+            </div>
+                <input type="submit" value="Submit">
+        </form>
+
+		<h4>Find number of EVs for different municipalities in 2020:</h4>
+        <form action="/select-EVtown" method="POST">
+            <div>
+                Type in county name
+                <input type="text" name="county">
+            </div>
+                <input type="submit" value="Submit">
+        </form>
+
+		<h4>Find top 10 municipalities that emitted the most metric tons of Greenhouse Gases in 2020:</h4>
+        <form action="/select-GHGtown" method="POST">
+            <div>
+                <button onclick="revealAnswer()">Click to Reveal Answer!</button>
+            </div>
+            <script>
+              function revealAnswer(){
+                  document.getElementById("GHGanswer").syle.display = "block";
+              }
+            </script>
+        </form>
+      
+
+
+    </body>
+
+    <!-- minimal styling -->
+    <style>
+        form {
+            margin: 1%;
+        }
+
+        div {
+            margin: 1% 0;
+        }
+    </style>
+</html>
