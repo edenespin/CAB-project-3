@@ -1,0 +1,1131 @@
+Municipality,Year, Total_Personal_Vehicles,#_of_EVs
+Newark city,2020,"92,490",141
+Jersey City city,2020,"88,454",737
+Jersey City city,2015,"81,724",49
+Newark city,2015,"79,073",20
+Toms River township,2020,"64,822",291
+Toms River township,2015,"61,597",27
+Edison township,2015,"60,480",47
+Hamilton township,2020,"60,294",256
+Edison township,2020,"59,239",690
+Woodbridge township,2020,"59,139",278
+Hamilton township,2015,"58,255",32
+Woodbridge township,2015,"57,597",26
+Brick township,2020,"55,314",181
+Brick township,2015,"53,207",38
+Elizabeth city,2020,"51,731",85
+Cherry Hill township,2020,"49,528",531
+Clifton city,2020,"49,029",197
+Paterson city,2020,"48,712",67
+Middletown township,2020,"46,745",233
+Cherry Hill township,2015,"46,741",59
+Middletown township,2015,"45,668",32
+Elizabeth city,2015,"45,271",3
+Clifton city,2015,"45,145",18
+Old Bridge township,2020,"44,998",234
+Paterson city,2015,"43,819",7
+Franklin township,2020,"42,932",383
+Old Bridge township,2015,"42,870",20
+Gloucester township,2015,"41,195",23
+Gloucester township,2020,"40,581",125
+Jackson township,2020,"40,229",189
+Franklin township,2015,"40,227",41
+Jackson township,2015,"38,627",21
+Vineland city,2020,"37,321",102
+Union township,2020,"37,148",109
+Howell township,2020,"35,755",177
+Wayne township,2020,"35,517",232
+Howell township,2015,"34,798",19
+Lakewood township,2020,"34,782",421
+Parsippany-Troy Hills township,2015,"34,684",29
+Wayne township,2015,"34,528",19
+Parsippany-Troy Hills township,2020,"34,525",315
+Vineland city,2015,"34,378",14
+Union township,2015,"34,244",9
+Lakewood township,2015,"33,720",6
+Washington township,2020,"33,559",142
+Evesham township,2020,"33,027",204
+East Brunswick township,2020,"32,528",373
+Monroe township,2020,"32,072",491
+Evesham township,2015,"31,935",24
+Trenton city,2020,"31,840",69
+Washington township,2015,"31,718",18
+East Brunswick township,2015,"31,289",27
+Berkeley township,2020,"31,161",98
+Manchester township,2020,"31,152",71
+Mount Laurel township,2020,"30,924",228
+Manchester township,2015,"30,775",14
+Bridgewater township,2020,"30,647",340
+Bayonne city,2015,"30,262",10
+Bayonne city,2020,"30,135",89
+Piscataway township,2015,"30,116",26
+Piscataway township,2020,"29,930",279
+South Brunswick township,2020,"29,797",512
+Berkeley township,2015,"29,667",11
+Trenton city,2015,"29,482",8
+Mount Laurel township,2015,"29,434",26
+Bridgewater township,2015,"29,384",19
+South Brunswick township,2015,"29,344",49
+Sayreville borough,2020,"29,313",143
+Monroe township,2015,"28,818",41
+Bloomfield township,2020,"28,742",156
+Egg Harbor township,2020,"28,220",142
+Sayreville borough,2015,"27,715",9
+Hillsborough township,2020,"27,697",337
+Manalapan township,2020,"27,480",249
+Marlboro township,2020,"27,464",414
+Egg Harbor township,2015,"27,423",20
+West Orange township,2020,"27,309",254
+West Orange township,2015,"27,101",21
+Marlboro township,2015,"27,015",32
+Manalapan township,2015,"26,959",22
+Bloomfield township,2015,"26,640",24
+Hillsborough township,2015,"26,430",30
+North Bergen township,2020,"25,912",94
+North Bergen township,2015,"25,672",8
+Monroe township,2020,"25,618",82
+Camden city,2020,"25,563",14
+North Brunswick township,2015,"24,907",19
+Winslow township,2020,"24,874",105
+Linden city,2020,"24,492",70
+East Orange city,2015,"24,470",7
+Winslow township,2015,"24,412",17
+North Brunswick township,2020,"24,070",204
+East Orange city,2020,"23,862",24
+Freehold township,2020,"23,664",128
+Hackensack city,2020,"23,567",90
+Monroe township,2015,"23,516",13
+Freehold township,2015,"23,432",12
+Galloway township,2020,"23,127",72
+Linden city,2015,"22,877",12
+Camden city,2015,"22,752",1
+Lacey township,2020,"22,629",65
+Irvington township,2020,"22,268",21
+Ewing township,2020,"22,138",72
+Teaneck township,2020,"22,086",173
+Hackensack city,2015,"22,056",14
+Plainfield city,2020,"22,027",81
+Fort Lee borough,2020,"21,713",231
+Montclair township,2020,"21,667",395
+Teaneck township,2015,"21,614",20
+Ewing township,2015,"21,607",12
+Fort Lee borough,2015,"21,598",20
+Galloway township,2015,"21,578",12
+Lawrence township,2015,"21,570",43
+Lawrence township,2020,"21,566",237
+Montclair township,2015,"21,455",39
+Belleville township,2020,"21,413",52
+Fair Lawn borough,2020,"21,243",139
+Perth Amboy city,2020,"21,105",44
+Pennsauken township,2015,"20,879",9
+Lacey township,2015,"20,857",7
+Plainfield city,2015,"20,832",16
+Stafford township,2020,"20,829",90
+Fair Lawn borough,2015,"20,699",10
+Irvington township,2015,"20,693",0
+Kearny town,2015,"20,607",8
+Pennsauken township,2020,"20,601",51
+Union City city,2020,"20,593",54
+Kearny town,2020,"20,519",51
+Willingboro township,2020,"20,513",41
+Deptford township,2020,"20,479",77
+Passaic city,2020,"20,386",42
+Perth Amboy city,2015,"20,012",9
+Hoboken city,2020,"20,009",205
+Livingston township,2020,"20,000",382
+West Milford township,2020,"19,828",67
+Wall township,2020,"19,821",119
+Mount Olive township,2020,"19,819",102
+Hoboken city,2015,"19,782",17
+Deptford township,2015,"19,764",13
+Westfield town,2020,"19,514",268
+Westfield town,2015,"19,416",23
+Voorhees township,2020,"19,384",241
+Livingston township,2015,"19,288",32
+Mount Olive township,2015,"19,279",11
+Belleville township,2015,"18,990",4
+Pemberton township,2020,"18,963",50
+West Milford township,2015,"18,726",9
+Millville city,2020,"18,722",43
+Stafford township,2015,"18,722",7
+Ocean township,2020,"18,626",146
+Neptune township,2020,"18,577",57
+Nutley township,2020,"18,561",90
+Willingboro township,2015,"18,547",10
+Wall township,2015,"18,509",10
+Rockaway township,2020,"18,459",76
+Bernards township,2020,"18,377",294
+Long Branch city,2020,"18,358",127
+Pemberton township,2015,"18,353",11
+West Windsor township,2020,"18,347",508
+Ocean township,2015,"18,175",13
+Voorhees township,2015,"18,068",26
+Garfield city,2020,"18,049",44
+Nutley township,2015,"18,002",7
+West Windsor township,2015,"17,832",53
+Randolph township,2015,"17,804",10
+Randolph township,2020,"17,731",169
+Bernards township,2015,"17,670",29
+Rahway city,2020,"17,502",64
+Union City city,2015,"17,479",5
+Medford township,2020,"17,470",174
+New Brunswick city,2020,"17,457",62
+Vernon township,2020,"17,451",67
+Neptune township,2015,"17,382",6
+Mahwah township,2020,"17,368",161
+Passaic city,2015,"17,246",3
+Rockaway township,2015,"17,039",9
+Roxbury township,2020,"17,015",63
+Vernon township,2015,"16,891",12
+Scotch Plains township,2020,"16,886",163
+Englewood city,2020,"16,850",141
+Long Branch city,2015,"16,830",11
+Hamilton township,2020,"16,747",51
+Paramus borough,2020,"16,692",231
+Raritan township,2020,"16,670",133
+Cranford township,2020,"16,659",119
+Garfield city,2015,"16,654",5
+Paramus borough,2015,"16,641",15
+East Windsor township,2020,"16,571",165
+South Plainfield borough,2020,"16,529",84
+Barnegat township,2020,"16,490",46
+East Windsor township,2015,"16,438",16
+Medford township,2015,"16,389",23
+Mahwah township,2015,"16,288",12
+Hamilton township,2015,"16,283",9
+Millville city,2015,"16,275",10
+Lower township,2020,"16,172",94
+Morris township,2020,"16,169",165
+Scotch Plains township,2015,"16,037",15
+Montville township,2020,"16,031",201
+Roxbury township,2015,"15,971",9
+Rahway city,2015,"15,960",9
+Cranford township,2015,"15,906",14
+Raritan township,2015,"15,877",14
+Ridgewood village,2020,"15,805",291
+Jefferson township,2020,"15,765",57
+Ridgewood village,2015,"15,735",24
+Little Egg Harbor township,2020,"15,732",43
+Jefferson township,2015,"15,646",10
+South Plainfield borough,2015,"15,601",8
+Morris township,2015,"15,584",20
+Montgomery township,2020,"15,454",383
+West New York town,2020,"15,432",94
+Lower township,2015,"15,385",6
+Bergenfield borough,2020,"15,318",71
+Lyndhurst township,2020,"15,267",43
+Princeton,2020,"15,263",450
+Burlington township,2020,"15,220",58
+Bergenfield borough,2015,"15,182",13
+Montville township,2015,"15,160",15
+Englewood city,2015,"15,117",20
+West New York town,2015,"15,049",4
+Plainsboro township,2015,"15,022",21
+West Deptford township,2015,"14,963",3
+Montgomery township,2015,"14,935",35
+Plainsboro township,2020,"14,771",249
+New Brunswick city,2015,"14,721",10
+Princeton,2015,"14,615",54
+Moorestown township,2020,"14,601",250
+West Deptford township,2020,"14,484",44
+Aberdeen township,2020,"14,375",64
+Point Pleasant borough,2020,"14,322",73
+Barnegat township,2015,"14,320",5
+Little Egg Harbor township,2015,"14,316",7
+Moorestown township,2015,"14,311",23
+Burlington township,2015,"14,191",10
+Hazlet township,2020,"14,045",53
+Cliffside Park borough,2020,"14,008",57
+Summit city,2020,"13,912",224
+Hazlet township,2015,"13,764",8
+Sparta township,2020,"13,629",132
+Sparta township,2015,"13,563",18
+Lodi borough,2020,"13,523",41
+Lodi borough,2015,"13,518",6
+Carteret borough,2020,"13,471",29
+Cliffside Park borough,2015,"13,423",5
+Atlantic City city,2020,"13,353",32
+Washington township,2015,"13,313",13
+Maplewood township,2020,"13,259",208
+Carteret borough,2015,"13,234",3
+Hopewell township,2015,"13,216",26
+Point Pleasant borough,2015,"13,208",10
+Washington township,2020,"13,124",96
+Middle township,2020,"13,110",60
+Millburn township,2020,"13,020",414
+Summit city,2015,"13,018",32
+North Plainfield borough,2020,"13,007",35
+Morristown town,2020,"12,924",170
+Readington township,2020,"12,780",97
+Lyndhurst township,2015,"12,696",4
+Hawthorne borough,2020,"12,681",52
+Readington township,2015,"12,675",15
+Hopewell township,2020,"12,631",205
+Maplewood township,2015,"12,606",22
+Maple Shade township,2015,"12,599",5
+Hillside township,2020,"12,545",28
+Maple Shade township,2020,"12,503",33
+Millburn township,2015,"12,477",26
+Tinton Falls borough,2020,"12,388",65
+Holmdel township,2020,"12,341",202
+Denville township,2015,"12,274",12
+Franklin township,2020,"12,255",45
+Aberdeen township,2015,"12,240",7
+Middle township,2015,"12,138",11
+Denville township,2020,"12,134",128
+Hawthorne borough,2015,"12,032",6
+Springfield township,2020,"12,027",70
+North Plainfield borough,2015,"11,991",7
+Elmwood Park borough,2015,"11,958",4
+Cinnaminson township,2020,"11,917",77
+Secaucus town,2020,"11,820",107
+Hillside township,2015,"11,814",5
+Dumont borough,2020,"11,788",48
+Tinton Falls borough,2015,"11,725",7
+Elmwood Park borough,2020,"11,719",34
+Cinnaminson township,2015,"11,661",11
+Wyckoff township,2015,"11,639",9
+Franklin township,2015,"11,612",10
+Wyckoff township,2020,"11,582",119
+Springfield township,2015,"11,511",4
+Delran township,2020,"11,504",37
+Roselle borough,2020,"11,487",21
+Atlantic City city,2015,"11,389",3
+Warren township,2020,"11,357",258
+Holmdel township,2015,"11,350",25
+Glassboro borough,2020,"11,346",33
+Dumont borough,2015,"11,333",5
+Clark township,2020,"11,316",56
+City of Orange township,2020,"11,311",23
+Hopatcong borough,2020,"11,159",39
+Branchburg township,2020,"11,119",63
+Rutherford borough,2015,"11,083",6
+Rutherford borough,2020,"10,961",70
+Hopatcong borough,2015,"10,925",4
+Delran township,2015,"10,852",6
+Warren township,2015,"10,844",29
+Glassboro borough,2015,"10,829",4
+Mantua township,2015,"10,726",5
+Hanover township,2020,"10,681",83
+Roselle borough,2015,"10,664",3
+Ramsey borough,2015,"10,570",13
+Mantua township,2020,"10,543",51
+Pequannock township,2020,"10,526",38
+Pequannock township,2015,"10,514",2
+Palisades Park borough,2020,"10,493",72
+North Arlington borough,2020,"10,464",34
+Morristown town,2015,"10,434",21
+Ramsey borough,2020,"10,392",84
+Branchburg township,2015,"10,341",10
+City of Orange township,2015,"10,257",2
+Clark township,2015,"10,246",5
+New Milford borough,2015,"10,231",5
+New Milford borough,2020,"10,211",54
+Madison borough,2020,"10,100",147
+Secaucus town,2015,"10,098",13
+Hanover township,2015,"10,005",13
+Palisades Park borough,2015,"9,964",3
+Robbinsville township,2020,"9,874",128
+Haddon township,2020,"9,835",80
+Little Falls township,2020,"9,770",40
+Lindenwold borough,2020,"9,753",27
+Madison borough,2015,"9,726",15
+South River borough,2015,"9,674",7
+Robbinsville township,2015,"9,667",11
+North Arlington borough,2015,"9,560",5
+Haddon township,2015,"9,557",11
+Lindenwold borough,2015,"9,546",4
+Upper township,2020,"9,527",39
+Hammonton town,2015,"9,456",9
+Saddle Brook township,2015,"9,434",1
+South River borough,2020,"9,404",33
+Pennsville township,2015,"9,387",5
+Hammonton town,2020,"9,278",43
+Upper township,2015,"9,243",9
+Collingswood borough,2020,"9,239",67
+Pleasantville city,2020,"9,236",7
+Verona township,2020,"9,179",81
+Pleasantville city,2015,"9,155",1
+Dover town,2020,"9,152",19
+Middlesex borough,2015,"9,150",1
+Middlesex borough,2020,"9,146",23
+Berkeley Heights township,2020,"9,120",134
+Pennsville township,2020,"9,086",16
+Oakland borough,2015,"9,035",5
+Florence township,2020,"9,006",40
+New Providence borough,2020,"9,004",103
+Ringwood borough,2020,"8,988",59
+Metuchen borough,2020,"8,978",84
+Clinton township,2020,"8,970",76
+Phillipsburg town,2020,"8,960",22
+Florence township,2015,"8,951",5
+Harrison township,2020,"8,938",80
+Oakland borough,2020,"8,908",59
+Verona township,2015,"8,811",5
+Little Falls township,2015,"8,799",4
+Saddle Brook township,2020,"8,792",27
+Tenafly borough,2015,"8,787",17
+Eatontown borough,2015,"8,738",6
+Berkeley Heights township,2015,"8,724",10
+Metuchen borough,2015,"8,704",8
+Bordentown township,2020,"8,691",36
+Tenafly borough,2020,"8,661",241
+Collingswood borough,2015,"8,635",10
+Roselle Park borough,2020,"8,612",26
+Highland Park borough,2020,"8,593",79
+Franklin Lakes borough,2015,"8,589",11
+Asbury Park city,2020,"8,588",73
+Lumberton township,2020,"8,516",49
+Ringwood borough,2015,"8,479",7
+Millstone township,2020,"8,474",75
+Harrison township,2015,"8,453",9
+Clinton township,2015,"8,447",5
+Wantage township,2020,"8,443",27
+South Orange Village township,2015,"8,398",21
+Eatontown borough,2020,"8,370",67
+Franklin Lakes borough,2020,"8,322",151
+Phillipsburg town,2015,"8,309",4
+Dover town,2015,"8,237",1
+Wanaque borough,2020,"8,215",32
+Wantage township,2015,"8,198",5
+Bridgeton city,2015,"8,152",4
+Lumberton township,2015,"8,118",6
+East Hanover township,2020,"8,079",59
+Cedar Grove township,2020,"8,062",70
+Roselle Park borough,2015,"8,058",6
+Edgewater borough,2020,"8,018",108
+Ocean City city,2020,"8,012",89
+Beachwood borough,2020,"8,002",28
+Woodland Park borough,2020,"7,975",42
+South Orange Village township,2020,"7,968",171
+Woolwich township,2020,"7,964",51
+Waterford township,2020,"7,941",17
+Bordentown township,2015,"7,897",8
+East Hanover township,2015,"7,866",2
+West Caldwell township,2020,"7,859",70
+Cedar Grove township,2015,"7,838",8
+Haddonfield borough,2015,"7,803",13
+Southampton township,2020,"7,800",50
+East Greenwich township,2020,"7,796",61
+Bridgeton city,2020,"7,756",21
+Glen Rock borough,2015,"7,742",8
+Southampton township,2015,"7,735",9
+Kinnelon borough,2020,"7,682",48
+Kinnelon borough,2015,"7,680",3
+Weehawken township,2020,"7,680",84
+Highland Park borough,2015,"7,642",11
+Millstone township,2015,"7,600",13
+River Edge borough,2020,"7,587",70
+New Providence borough,2015,"7,562",5
+Haddonfield borough,2020,"7,545",103
+Ocean City city,2015,"7,512",5
+Hasbrouck Heights borough,2015,"7,454",5
+Red Bank borough,2020,"7,444",60
+Woodland Park borough,2015,"7,417",4
+Pompton Lakes borough,2020,"7,385",32
+Woolwich township,2015,"7,378",4
+Wanaque borough,2015,"7,375",3
+Beachwood borough,2015,"7,365",4
+Wallington borough,2020,"7,339",27
+Lincoln Park borough,2020,"7,325",25
+Hillsdale borough,2020,"7,288",48
+Florham Park borough,2020,"7,275",79
+Somerville borough,2020,"7,267",63
+Westwood borough,2020,"7,258",105
+Harrison town,2020,"7,223",36
+Colts Neck township,2020,"7,212",111
+Totowa borough,2020,"7,197",44
+River Edge borough,2015,"7,194",2
+Hasbrouck Heights borough,2020,"7,190",56
+Colts Neck township,2015,"7,156",16
+Ridgefield Park village,2020,"7,146",38
+Lincoln Park borough,2015,"7,119",1
+Wallington borough,2015,"7,119",3
+Florham Park borough,2015,"7,100",8
+Somerville borough,2015,"7,081",8
+Pine Hill borough,2020,"7,069",17
+Pompton Lakes borough,2015,"7,062",1
+Ocean township,2020,"7,047",15
+Bellmawr borough,2015,"7,034",1
+Chatham township,2015,"7,021",10
+Edgewater borough,2015,"7,021",9
+Waterford township,2015,"6,977",5
+Bellmawr borough,2020,"6,953",22
+River Vale township,2020,"6,916",70
+Plumsted township,2020,"6,902",23
+Ocean township,2015,"6,884",1
+Westwood borough,2015,"6,877",11
+Little Ferry borough,2020,"6,873",21
+Bedminster township,2020,"6,866",65
+Bedminster township,2015,"6,854",7
+Brigantine city,2015,"6,844",4
+West Caldwell township,2015,"6,833",5
+Fairview borough,2015,"6,832",2
+Ridgefield Park village,2015,"6,817",8
+Manville borough,2020,"6,812",18
+East Greenwich township,2015,"6,788",3
+Glen Rock borough,2020,"6,767",98
+Pittsgrove township,2020,"6,765",18
+Hillsdale borough,2015,"6,741",2
+Chatham township,2020,"6,737",104
+Asbury Park city,2015,"6,681",8
+Washington township,2020,"6,674",59
+Ridgefield borough,2020,"6,673",26
+Waldwick borough,2015,"6,660",4
+Somers Point city,2020,"6,648",14
+River Vale township,2015,"6,607",7
+Mansfield township,2020,"6,595",58
+Brigantine city,2020,"6,590",34
+Somers Point city,2015,"6,577",1
+Pittsgrove township,2015,"6,576",2
+Fairview borough,2020,"6,520",19
+Washington township,2015,"6,483",6
+Red Bank borough,2015,"6,466",9
+Ridgefield borough,2015,"6,463",5
+Waldwick borough,2020,"6,463",28
+Mansfield township,2015,"6,424",8
+Westampton township,2020,"6,395",22
+Totowa borough,2015,"6,392",1
+Park Ridge borough,2020,"6,357",48
+Byram township,2020,"6,326",26
+Gloucester City city,2020,"6,325",13
+East Rutherford borough,2020,"6,252",29
+Little Ferry borough,2015,"6,242",4
+Maywood borough,2020,"6,228",28
+Long Hill township,2020,"6,223",77
+Manville borough,2015,"6,219",3
+Long Hill township,2015,"6,215",8
+Audubon borough,2015,"6,212",1
+South Amboy city,2015,"6,190",2
+Tabernacle township,2020,"6,157",23
+Pitman borough,2015,"6,148",2
+Burlington city,2015,"6,132",6
+Burlington city,2020,"6,107",35
+Hardyston township,2020,"6,098",22
+Lopatcong township,2020,"6,098",16
+Westampton township,2015,"6,096",5
+Ventnor City city,2020,"6,068",31
+Hardyston township,2015,"6,054",4
+Byram township,2015,"6,017",4
+Wood-Ridge borough,2020,"6,009",71
+North Haledon borough,2015,"5,998",3
+Woodbury city,2020,"5,994",24
+Chester township,2020,"5,986",62
+Weehawken township,2015,"5,957",7
+Pitman borough,2020,"5,955",29
+Pine Hill borough,2015,"5,938",3
+Matawan borough,2015,"5,886",4
+Audubon borough,2020,"5,875",21
+Gloucester City city,2015,"5,867",3
+Keansburg borough,2020,"5,860",10
+Clayton borough,2020,"5,853",18
+Plumsted township,2015,"5,847",2
+Upper Saddle River borough,2020,"5,797",123
+Edgewater Park township,2015,"5,794",3
+Ventnor City city,2015,"5,786",5
+Keansburg borough,2015,"5,778",0
+Mansfield township,2015,"5,771",4
+Park Ridge borough,2015,"5,742",4
+Matawan borough,2020,"5,732",46
+Butler borough,2020,"5,730",48
+Hackettstown town,2020,"5,730",33
+Harrison town,2015,"5,730",4
+Woodbury city,2015,"5,726",5
+Hackettstown town,2015,"5,707",3
+Bound Brook borough,2015,"5,681",0
+Absecon city,2015,"5,679",2
+Chester township,2015,"5,657",8
+Oradell borough,2020,"5,657",51
+Bound Brook borough,2020,"5,656",24
+Spotswood borough,2020,"5,654",25
+Montvale borough,2020,"5,634",54
+Maywood borough,2015,"5,616",4
+Boonton town,2020,"5,615",52
+South Amboy city,2020,"5,605",23
+Cresskill borough,2015,"5,602",6
+Northfield city,2020,"5,601",19
+North Haledon borough,2020,"5,594",19
+Mount Holly township,2020,"5,580",28
+Upper Deerfield township,2015,"5,580",2
+Edgewater Park township,2020,"5,568",10
+Freehold borough,2020,"5,562",38
+Leonia borough,2020,"5,551",54
+Boonton town,2015,"5,544",4
+Upper Saddle River borough,2015,"5,537",12
+Cresskill borough,2020,"5,531",95
+Northfield city,2015,"5,516",3
+Fairfield township,2020,"5,511",46
+Haddon Heights borough,2020,"5,504",28
+Buena Vista township,2020,"5,471",19
+Spotswood borough,2015,"5,461",2
+Lopatcong township,2015,"5,458",2
+Chatham borough,2015,"5,456",8
+Chatham borough,2020,"5,439",89
+Bernardsville borough,2015,"5,405",5
+Absecon city,2020,"5,392",20
+Newton town,2020,"5,360",21
+Montvale borough,2015,"5,358",5
+Upper Freehold township,2020,"5,338",42
+Mount Holly township,2015,"5,327",5
+Bloomingdale borough,2015,"5,322",5
+Oradell borough,2015,"5,314",8
+Tabernacle township,2015,"5,297",4
+Clayton borough,2015,"5,293",2
+Kenilworth borough,2015,"5,293",1
+East Rutherford borough,2015,"5,282",4
+Closter borough,2015,"5,277",7
+Closter borough,2020,"5,274",105
+Runnemede borough,2020,"5,272",12
+Washington township,2020,"5,262",15
+Bernardsville borough,2020,"5,260",84
+Caldwell borough,2020,"5,256",53
+Bloomingdale borough,2020,"5,248",20
+Fanwood borough,2020,"5,232",38
+Wood-Ridge borough,2015,"5,230",6
+Lebanon township,2015,"5,228",6
+Raritan borough,2020,"5,228",33
+Upper Freehold township,2015,"5,221",3
+Caldwell borough,2015,"5,218",3
+Buena Vista township,2015,"5,217",2
+Kenilworth borough,2020,"5,182",18
+Emerson borough,2020,"5,155",29
+Freehold borough,2015,"5,153",4
+Midland Park borough,2020,"5,123",29
+Lebanon township,2020,"5,122",35
+Leonia borough,2015,"5,103",7
+Haddon Heights borough,2015,"5,052",4
+West Long Branch borough,2020,"5,048",54
+Palmyra borough,2015,"5,046",9
+Runnemede borough,2015,"5,025",2
+Washington township,2015,"5,015",3
+Linwood city,2020,"4,982",40
+North Hanover township,2020,"4,970",22
+Barrington borough,2020,"4,958",26
+Berlin borough,2020,"4,957",20
+Milltown borough,2015,"4,955",6
+Dennis township,2020,"4,928",20
+Dennis township,2015,"4,924",4
+Tewksbury township,2015,"4,920",6
+Mansfield township,2020,"4,903",24
+Milltown borough,2020,"4,894",35
+Riverside township,2015,"4,887",3
+Hainesport township,2020,"4,882",34
+Fairfield township,2015,"4,874",4
+Mountainside borough,2020,"4,870",59
+Shamong township,2020,"4,859",21
+Bogota borough,2015,"4,848",1
+Riverside township,2020,"4,848",17
+Carneys Point township,2020,"4,844",10
+Upper Deerfield township,2020,"4,844",9
+Shamong township,2015,"4,841",4
+North Caldwell borough,2020,"4,827",37
+Green Brook township,2015,"4,822",2
+Margate City city,2015,"4,817",3
+Rumson borough,2015,"4,817",18
+West Long Branch borough,2015,"4,810",7
+Bogota borough,2020,"4,792",27
+Green Brook township,2020,"4,790",42
+Emerson borough,2015,"4,756",1
+Butler borough,2015,"4,750",3
+Palmyra borough,2020,"4,736",19
+Linwood city,2015,"4,728",1
+North Caldwell borough,2015,"4,728",3
+Fanwood borough,2015,"4,701",6
+Margate City city,2020,"4,699",56
+North Hanover township,2015,"4,696",3
+Keyport borough,2020,"4,682",22
+Hainesport township,2015,"4,666",3
+Carneys Point township,2015,"4,652",1
+Washington borough,2020,"4,638",17
+Mountainside borough,2015,"4,626",7
+Oceanport borough,2020,"4,623",23
+Guttenberg town,2020,"4,619",18
+Independence township,2020,"4,616",16
+Rumson borough,2020,"4,605",74
+Blairstown township,2020,"4,599",19
+Midland Park borough,2015,"4,594",6
+Stratford borough,2020,"4,584",9
+Berlin borough,2015,"4,560",3
+Morris Plains borough,2020,"4,540",49
+Barrington borough,2015,"4,520",5
+Manasquan borough,2020,"4,509",44
+Eastampton township,2020,"4,486",15
+Haledon borough,2020,"4,477",17
+Raritan borough,2015,"4,431",3
+Tewksbury township,2020,"4,419",50
+Allendale borough,2015,"4,418",3
+Mendham township,2020,"4,408",53
+Stratford borough,2015,"4,398",2
+Glen Ridge borough,2015,"4,361",3
+Little Silver borough,2020,"4,348",38
+Dunellen borough,2015,"4,345",1
+Rockaway borough,2020,"4,342",25
+Allendale borough,2020,"4,321",60
+Blairstown township,2015,"4,311",2
+Newton town,2015,"4,296",3
+Roseland borough,2015,"4,296",4
+Glen Ridge borough,2020,"4,295",83
+Manasquan borough,2015,"4,287",2
+Little Silver borough,2015,"4,255",2
+Andover township,2020,"4,252",14
+Rockaway borough,2015,"4,224",4
+Mount Arlington borough,2020,"4,219",14
+Roseland borough,2020,"4,219",54
+Woodcliff Lake borough,2015,"4,213",6
+Keyport borough,2015,"4,212",3
+Haledon borough,2015,"4,196",3
+Frankford township,2020,"4,193",19
+Washington borough,2015,"4,183",4
+Frankford township,2015,"4,182",5
+Chesterfield township,2015,"4,181",4
+Fair Haven borough,2015,"4,176",5
+Watchung borough,2015,"4,166",20
+Independence township,2015,"4,154",2
+Mullica township,2015,"4,152",3
+Norwood borough,2015,"4,133",0
+Holland township,2015,"4,131",3
+Logan township,2015,"4,126",2
+Belmar borough,2015,"4,112",4
+Mullica township,2020,"4,112",15
+Old Tappan borough,2015,"4,104",4
+Mendham township,2015,"4,102",6
+Alexandria township,2020,"4,097",19
+Holland township,2020,"4,091",15
+Watchung borough,2020,"4,082",105
+Wharton borough,2020,"4,081",17
+Logan township,2020,"4,075",23
+Dunellen borough,2020,"4,071",45
+Eastampton township,2015,"4,070",3
+Old Tappan borough,2020,"4,064",41
+Carlstadt borough,2020,"4,047",17
+Woodcliff Lake borough,2020,"4,042",62
+Oceanport borough,2015,"4,035",3
+Hampton township,2015,"3,947",2
+Andover township,2015,"3,946",2
+Allamuchy township,2020,"3,912",17
+Union Beach borough,2020,"3,875",12
+Belmar borough,2020,"3,869",41
+Greenwich township,2020,"3,867",18
+Englewood Cliffs borough,2020,"3,861",98
+Delaware township,2015,"3,847",4
+Union township,2015,"3,838",4
+Morris Plains borough,2015,"3,833",5
+Rochelle Park township,2020,"3,811",11
+Jamesburg borough,2020,"3,806",45
+Somerdale borough,2020,"3,798",13
+Berlin township,2020,"3,773",12
+Chesterfield township,2020,"3,766",53
+Carlstadt borough,2015,"3,752",1
+Delaware township,2020,"3,752",29
+Mount Arlington borough,2015,"3,744",0
+Highlands borough,2020,"3,713",17
+Union Beach borough,2015,"3,702",2
+Greenwich township,2015,"3,700",2
+Norwood borough,2020,"3,698",52
+Guttenberg town,2015,"3,686",1
+Fair Haven borough,2020,"3,680",49
+Hampton township,2020,"3,680",13
+Paulsboro borough,2020,"3,650",5
+Alexandria township,2015,"3,646",4
+Wharton borough,2015,"3,623",0
+Brielle borough,2015,"3,621",1
+Highlands borough,2015,"3,595",1
+Harrington Park borough,2020,"3,575",38
+Franklin borough,2020,"3,564",8
+Greenwich township,2015,"3,560",3
+Englewood Cliffs borough,2015,"3,556",9
+Allamuchy township,2015,"3,549",2
+Rochelle Park township,2015,"3,525",1
+Mount Ephraim borough,2020,"3,523",13
+White township,2015,"3,516",1
+Spring Lake Heights borough,2015,"3,506",4
+Greenwich township,2020,"3,494",6
+Jamesburg borough,2015,"3,463",4
+Hightstown borough,2015,"3,442",4
+Somerdale borough,2015,"3,442",3
+Franklin borough,2015,"3,435",3
+Northvale borough,2020,"3,434",24
+Mendham borough,2020,"3,428",55
+White township,2020,"3,418",8
+Delanco township,2020,"3,377",11
+Union township,2020,"3,365",26
+Demarest borough,2015,"3,352",7
+Bethlehem township,2020,"3,349",17
+Neptune City borough,2020,"3,334",11
+Point Pleasant Beach borough,2020,"3,327",32
+Riverdale borough,2015,"3,326",3
+Point Pleasant Beach borough,2015,"3,324",4
+Demarest borough,2020,"3,314",98
+Brielle borough,2020,"3,293",30
+East Amwell township,2020,"3,273",36
+Riverdale borough,2020,"3,258",14
+Spring Lake Heights borough,2020,"3,240",42
+Paulsboro borough,2015,"3,234",0
+Atlantic Highlands borough,2015,"3,221",1
+Stillwater township,2020,"3,216",10
+Fairfield township,2020,"3,215",6
+Boonton township,2015,"3,212",2
+Hightstown borough,2020,"3,211",39
+Harding township,2020,"3,210",45
+Mendham borough,2015,"3,191",8
+East Amwell township,2015,"3,185",4
+Delanco township,2015,"3,170",2
+Lambertville city,2015,"3,160",5
+Northvale borough,2015,"3,156",4
+Kingwood township,2020,"3,142",20
+Berlin township,2015,"3,128",0
+Harrington Park borough,2015,"3,117",3
+Stillwater township,2015,"3,113",1
+Atlantic Highlands borough,2020,"3,110",21
+Hopewell township,2015,"3,103",1
+Bethlehem township,2015,"3,091",3
+Pilesgrove township,2020,"3,084",17
+Fairfield township,2015,"3,082",1
+Clementon borough,2015,"3,074",1
+Harding township,2015,"3,074",4
+Commercial township,2015,"3,067",3
+Boonton township,2020,"3,046",23
+Medford Lakes borough,2015,"3,042",3
+Clementon borough,2020,"3,041",9
+Montague township,2020,"3,008",11
+Kingwood township,2015,"3,006",3
+Mountain Lakes borough,2015,"2,997",6
+Hopewell township,2020,"2,983",5
+Mountain Lakes borough,2020,"2,977",90
+Bradley Beach borough,2015,"2,960",2
+Medford Lakes borough,2020,"2,960",26
+Buena borough,2020,"2,957",5
+Commercial township,2020,"2,953",7
+Buena borough,2015,"2,946",0
+Garwood borough,2015,"2,937",0
+Neptune City borough,2015,"2,931",1
+South Bound Brook borough,2020,"2,891",19
+Mount Ephraim borough,2015,"2,886",1
+Lambertville city,2020,"2,880",36
+Pilesgrove township,2015,"2,877",1
+Garwood borough,2020,"2,860",12
+Magnolia borough,2020,"2,846",9
+Wildwood city,2015,"2,840",2
+Ho-Ho-Kus borough,2020,"2,826",50
+Franklin township,2020,"2,825",26
+Elk township,2015,"2,824",3
+Oaklyn borough,2020,"2,819",13
+Shrewsbury borough,2020,"2,800",23
+Cranbury township,2020,"2,797",43
+Elk township,2020,"2,789",19
+Bordentown city,2020,"2,779",19
+Alloway township,2020,"2,766",7
+Bradley Beach borough,2020,"2,751",23
+Saddle River borough,2020,"2,750",83
+Pohatcong township,2020,"2,740",6
+Ho-Ho-Kus borough,2015,"2,735",7
+North Wildwood city,2020,"2,724",47
+North Wildwood city,2015,"2,718",2
+Oaklyn borough,2015,"2,709",2
+Cranbury township,2015,"2,693",3
+Shrewsbury borough,2015,"2,685",5
+Montague township,2015,"2,681",2
+High Bridge borough,2020,"2,680",13
+High Bridge borough,2015,"2,677",0
+Springfield township,2020,"2,677",11
+Westville borough,2015,"2,659",1
+Magnolia borough,2015,"2,658",3
+Prospect Park borough,2015,"2,634",2
+South Bound Brook borough,2015,"2,634",3
+Flemington borough,2020,"2,617",40
+Franklin township,2015,"2,612",4
+Wildwood Crest borough,2020,"2,610",29
+Green township,2020,"2,592",11
+Long Beach township,2015,"2,591",2
+Stanhope borough,2015,"2,584",1
+Bordentown city,2015,"2,583",4
+Springfield township,2015,"2,572",1
+Mine Hill township,2020,"2,549",7
+Westville borough,2020,"2,545",5
+Monmouth Beach borough,2020,"2,539",69
+Monmouth Beach borough,2015,"2,518",3
+Fredon township,2020,"2,516",8
+Upper Pittsgrove township,2020,"2,506",11
+Green township,2015,"2,492",2
+Prospect Park borough,2020,"2,489",11
+Saddle River borough,2015,"2,487",8
+Long Beach township,2020,"2,486",21
+Pohatcong township,2015,"2,480",1
+Alloway township,2015,"2,475",1
+Tuckerton borough,2020,"2,475",9
+Franklin township,2020,"2,471",12
+Upper Pittsgrove township,2015,"2,457",2
+Weymouth township,2020,"2,456",5
+Fredon township,2015,"2,453",1
+Franklin township,2015,"2,424",2
+Spring Lake borough,2020,"2,412",26
+Stanhope borough,2020,"2,409",7
+Woodstown borough,2015,"2,396",1
+Netcong borough,2020,"2,389",5
+Flemington borough,2015,"2,383",4
+Wildwood city,2020,"2,382",48
+Knowlton township,2020,"2,377",9
+West Amwell township,2020,"2,373",21
+Egg Harbor City city,2015,"2,365",2
+Woodstown borough,2020,"2,362",15
+Hamburg borough,2015,"2,359",2
+Haworth borough,2015,"2,358",2
+Wildwood Crest borough,2015,"2,345",1
+Hamburg borough,2020,"2,337",11
+Liberty township,2020,"2,313",5
+West Amwell township,2015,"2,305",3
+Haworth borough,2020,"2,289",30
+Woodbury Heights borough,2020,"2,285",6
+Merchantville borough,2015,"2,262",2
+Tuckerton borough,2015,"2,256",2
+South Harrison township,2015,"2,251",2
+Mine Hill township,2015,"2,249",0
+Spring Lake borough,2015,"2,218",3
+South Harrison township,2020,"2,215",17
+Knowlton township,2015,"2,211",1
+Penns Grove borough,2020,"2,209",7
+Harmony township,2020,"2,198",4
+Maurice River township,2015,"2,178",0
+Netcong borough,2015,"2,178",0
+Lawrence township,2020,"2,164",7
+South Toms River borough,2020,"2,154",3
+Liberty township,2015,"2,133",1
+Merchantville borough,2020,"2,120",12
+National Park borough,2020,"2,076",2
+Woodbury Heights borough,2015,"2,070",2
+Penns Grove borough,2015,"2,061",0
+Salem city,2020,"2,056",9
+Deerfield township,2015,"2,052",1
+Salem city,2015,"2,046",1
+Egg Harbor City city,2020,"2,041",12
+Lawrence township,2015,"2,034",0
+Harmony township,2015,"2,031",1
+South Toms River borough,2015,"2,029",0
+Weymouth township,2015,"2,012",1
+Quinton township,2020,"2,002",3
+Clinton town,2020,"1,993",26
+Deerfield township,2020,"1,983",6
+Cape May city,2020,"1,971",32
+Oxford township,2020,"1,957",4
+Riverton borough,2015,"1,943",2
+New Hanover township,2020,"1,913",9
+Riverton borough,2020,"1,913",12
+Lawnside borough,2020,"1,906",6
+Quinton township,2015,"1,872",0
+Cape May city,2015,"1,855",2
+Maurice River township,2020,"1,850",2
+Frelinghuysen township,2015,"1,836",1
+Lakehurst borough,2020,"1,819",6
+National Park borough,2015,"1,809",0
+Pine Beach borough,2020,"1,788",5
+Peapack and Gladstone borough,2015,"1,787",6
+Lavallette borough,2020,"1,785",6
+Pennington borough,2015,"1,779",6
+Peapack and Gladstone borough,2020,"1,751",30
+Ogdensburg borough,2015,"1,743",0
+Alpha borough,2020,"1,741",4
+Sea Isle City city,2020,"1,741",39
+Pennington borough,2020,"1,734",55
+Lafayette township,2015,"1,731",1
+Oxford township,2015,"1,730",1
+Belvidere town,2015,"1,721",0
+Helmetta borough,2020,"1,713",10
+Clinton town,2015,"1,671",2
+Belvidere town,2020,"1,661",4
+Essex Fells borough,2015,"1,633",2
+Lafayette township,2020,"1,631",6
+Wenonah borough,2015,"1,616",1
+Pine Beach borough,2015,"1,608",0
+Lavallette borough,2015,"1,597",1
+Wenonah borough,2020,"1,593",8
+Hope township,2020,"1,590",7
+Moonachie borough,2015,"1,587",1
+Ogdensburg borough,2020,"1,580",1
+Swedesboro borough,2020,"1,570",16
+Seaside Park borough,2020,"1,563",11
+Gibbsboro borough,2020,"1,557",8
+Alpha borough,2015,"1,552",1
+Frelinghuysen township,2020,"1,552",7
+Lawnside borough,2015,"1,547",0
+Helmetta borough,2015,"1,546",1
+Gibbsboro borough,2015,"1,535",1
+Lakehurst borough,2015,"1,524",2
+Sandyston township,2015,"1,519",1
+Sandyston township,2020,"1,519",6
+Lebanon borough,2020,"1,511",17
+Swedesboro borough,2015,"1,510",1
+Essex Fells borough,2020,"1,496",37
+Beverly city,2015,"1,480",1
+Hope township,2015,"1,471",1
+Moonachie borough,2020,"1,461",7
+Beverly city,2020,"1,449",3
+Seaside Heights borough,2020,"1,432",8
+Woodbine borough,2020,"1,431",5
+Seaside Heights borough,2015,"1,428",1
+Hopewell borough,2015,"1,424",6
+South Hackensack township,2020,"1,424",6
+Avon-by-the-Sea borough,2015,"1,423",1
+South Hackensack township,2015,"1,415",0
+Ocean Gate borough,2015,"1,410",0
+Sea Isle City city,2015,"1,398",0
+Lower Alloways Creek township,2020,"1,391",2
+Avon-by-the-Sea borough,2020,"1,365",12
+Allentown borough,2020,"1,361",18
+Seaside Park borough,2015,"1,357",0
+Sea Girt borough,2020,"1,350",26
+Sea Girt borough,2015,"1,349",2
+Lebanon borough,2015,"1,347",2
+Allentown borough,2015,"1,344",2
+Lake Como borough,2020,"1,336",10
+Hopewell borough,2020,"1,330",34
+Oldmans township,2015,"1,316",0
+Avalon borough,2020,"1,311",54
+Woodland township,2020,"1,295",6
+Island Heights borough,2020,"1,289",9
+Folsom borough,2015,"1,283",1
+Laurel Springs borough,2020,"1,275",3
+Island Heights borough,2015,"1,273",2
+Englishtown borough,2015,"1,271",1
+Laurel Springs borough,2015,"1,267",0
+Estell Manor city,2020,"1,254",3
+Estell Manor city,2015,"1,249",0
+Avalon borough,2015,"1,232",1
+Glen Gardner borough,2015,"1,231",2
+Glen Gardner borough,2020,"1,230",10
+Oldmans township,2020,"1,229",8
+Brooklawn borough,2020,"1,226",3
+Englishtown borough,2020,"1,223",15
+Lower Alloways Creek township,2015,"1,208",0
+Sussex borough,2020,"1,204",6
+Eagleswood township,2015,"1,187",0
+Alpine borough,2015,"1,185",11
+Winfield township,2020,"1,181",4
+Stow Creek township,2015,"1,175",0
+Sussex borough,2015,"1,161",1
+New Hanover township,2015,"1,160",1
+Woodbine borough,2015,"1,159",1
+Hardwick township,2020,"1,152",6
+Folsom borough,2020,"1,150",5
+Pemberton borough,2020,"1,150",5
+Eagleswood township,2020,"1,148",6
+Newfield borough,2015,"1,132",1
+Brooklawn borough,2015,"1,131",0
+Sea Bright borough,2015,"1,108",8
+Port Republic city,2020,"1,104",7
+Frenchtown borough,2015,"1,101",1
+Hardwick township,2015,"1,099",1
+Alpine borough,2020,"1,095",56
+Surf City borough,2020,"1,094",6
+Newfield borough,2020,"1,093",5
+Woodlynne borough,2020,"1,093",7
+Woodlynne borough,2015,"1,086",1
+Bass River township,2015,"1,080",0
+Lake Como borough,2015,"1,054",1
+Bass River township,2020,"1,051",4
+Downe township,2015,"1,041",1
+Chester borough,2020,"1,040",27
+Sea Bright borough,2020,"1,040",33
+Ocean Gate borough,2020,"1,037",3
+Pemberton borough,2015,"1,032",1
+Mannington township,2020,"1,026",3
+Woodland township,2015,"1,020",0
+Milford borough,2020,"1,011",4
+Farmingdale borough,2015,"1,009",3
+Chester borough,2015,981,3
+Chesilhurst borough,2015,976,0
+Mannington township,2015,975,0
+Hampton borough,2020,973,6
+Winfield township,2015,970,1
+Frenchtown borough,2020,966,7
+Elmer borough,2015,960,1
+Shrewsbury township,2020,942,6
+Surf City borough,2015,939,1
+Elmer borough,2020,932,8
+Califon borough,2020,923,9
+Hampton borough,2015,907,1
+Farmingdale borough,2020,900,15
+Ship Bottom borough,2020,888,8
+Chesilhurst borough,2020,874,3
+Victory Gardens borough,2020,867,2
+Milford borough,2015,865,1
+Downe township,2020,858,2
+Elsinboro township,2015,836,0
+Califon borough,2015,834,1
+East Newark borough,2020,819,4
+Stow Creek township,2020,815,2
+Bay Head borough,2020,811,9
+East Newark borough,2015,805,0
+Beach Haven borough,2015,802,1
+Far Hills borough,2015,800,4
+Beach Haven borough,2020,797,7
+Audubon Park borough,2020,792,3
+West Cape May borough,2020,789,9
+Hi-Nella borough,2020,778,3
+Branchville borough,2020,766,2
+Ship Bottom borough,2015,766,1
+Victory Gardens borough,2015,764,0
+Port Republic city,2015,759,1
+Bay Head borough,2015,756,1
+Stone Harbor borough,2020,749,24
+Greenwich township,2015,747,0
+Audubon Park borough,2015,743,0
+Longport borough,2015,735,1
+Far Hills borough,2020,727,36
+Elsinboro township,2020,711,2
+Bloomsbury borough,2020,709,4
+Longport borough,2020,706,9
+Shrewsbury township,2015,693,1
+Interlaken borough,2015,667,0
+Interlaken borough,2020,657,4
+West Cape May borough,2015,652,1
+Stone Harbor borough,2015,648,1
+Washington township,2015,642,0
+Roosevelt borough,2020,589,5
+Bloomsbury borough,2015,583,1
+Fieldsboro borough,2020,562,2
+Andover borough,2020,551,14
+Corbin City city,2020,543,1
+Deal borough,2015,542,0
+Branchville borough,2015,526,0
+Roosevelt borough,2015,526,0
+Andover borough,2015,525,2
+Barnegat Light borough,2015,511,0
+Washington township,2020,499,2
+Hi-Nella borough,2015,498,1
+Stockton borough,2020,474,4
+Millstone borough,2020,441,4
+Rocky Hill borough,2015,440,1
+Stockton borough,2015,436,1
+Rocky Hill borough,2020,434,10
+Fieldsboro borough,2015,432,0
+Barnegat Light borough,2020,415,7
+Greenwich township,2020,413,1
+Wrightstown borough,2015,404,0
+Harvey Cedars borough,2020,388,3
+Shiloh borough,2015,388,0
+Wrightstown borough,2020,384,6
+Mantoloking borough,2020,381,4
+Deal borough,2020,363,37
+Harvey Cedars borough,2015,357,0
+Corbin City city,2015,350,0
+Allenhurst borough,2015,343,0
+West Wildwood borough,2015,331,0
+Allenhurst borough,2020,327,13
+Millstone borough,2015,314,0
+West Wildwood borough,2020,313,6
+Mantoloking borough,2015,286,0
+Shiloh borough,2020,271,1
+Cape May Point borough,2015,185,0
+Rockleigh borough,2020,174,2
+Rockleigh borough,2015,164,0
+Loch Arbour village,2020,148,6
+Cape May Point borough,2020,135,7
+Loch Arbour village,2015,132,0
+Teterboro borough,2015,53,0
+Teterboro borough,2020,49,1
+Pine Valley borough,2020,13,#N/A
+Walpack township,2020,8,1
+Tavistock borough,2015,6,0
+Tavistock borough,2020,6,1
+Walpack township,2015,5,0
+Pine Valley borough,2015,2,0

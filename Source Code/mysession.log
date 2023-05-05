@@ -1,0 +1,259 @@
+Script started on 2023-04-17 16:20:41-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="118" LINES="24"]
+]0;lion@roscoe:~/cab-project-3[?2004h[01;32m[lion@roscoe[01;37m cab-project-3[01;32m]$[00m psql Group33333333[K[K[K[K[K[K[K
+[?2004l
+psql (15.1)
+Type "help" for help.
+
+[?2004hGroup3=# S[K\qscript mysession.log
+
+SELECT * FROM Gas_Vehicles;
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C                    
+
+
+[?2004l
+          municipality          | year | passenger_cars | total_miles | total_emmissions 
+--------------------------------+------+----------------+-------------+------------------
+ aberdeen township              | 2019 |       98786829 |   139502619 |            73388
+ aberdeen township              | 2017 |       97772592 |   115779566 |            49604
+ absecon city                   | 2015 |       38488232 |   100583104 |            46724
+ absecon city                   | 2020 |       25192020 |    62366131 |            32487
+ alexandria township            | 2017 |       37796863 |    46619414 |            19086
+ alexandria township            | 2019 |       23745754 |    33532759 |            13311
+ allamuchy township             | 2017 |       33356655 |    47937196 |            18071
+ allamuchy township             | 2019 |       24921165 |    35192623 |            16085
+ allendale borough              | 2017 |       42564813 |    58271297 |            30925
+ allendale borough              | 2019 |       45353628 |    56912150 |            27772
+ allenhurst borough             | 2017 |        2900257 |     3538267 |             1890
+ allenhurst borough             | 2019 |        2434390 |     3437744 |             1488
+ allentown borough              | 2019 |        8271657 |    11680887 |             4314
+ allentown borough              | 2017 |        9534560 |    11111401 |             2812
+ alloway township               | 2020 |        9600149 |    26180821 |            13638
+ alloway township               | 2015 |        8082447 |    21060214 |             9783
+ alpha borough                  | 2017 |       17280979 |    26721594 |            10646
+ alpha borough                  | 2019 |       15789766 |    22297646 |            10510
+ alpine borough                 | 2017 |       11934465 |    15409607 |             6378
+ alpine borough                 | 2019 |        9595838 |    12019549 |             4882
+ andover borough                | 2019 |        4278954 |     6042560 |             1964
+[7m--More--[27m
+ andover borough                | 2017 |        3565018 |     5057013 |             1911
+[7m--More--[27m
+[K[?2004hGroup3=# 
+
+SELECT * FROM Gas_Vehicles;[K[K[K[K[K[K[K[K[K[K[K[K[KArea_Info;
+[?2004l
+          municipality          |   county   
+--------------------------------+------------
+ aberdeen township              | monmouth
+ absecon city                   | atlantic
+ alexandria township            | hunterdon
+ allamuchy township             | warren
+ allendale borough              | bergen
+ allenhurst borough             | monmouth
+ allentown borough              | monmouth
+ alloway township               | salem
+ alpha borough                  | warren
+ alpine borough                 | bergen
+ andover borough                | sussex
+ andover township               | sussex
+ asbury park city               | monmouth
+ atlantic city city             | atlantic
+ atlantic highlands borough     | monmouth
+ audubon borough                | camden
+ audubon park borough           | camden
+ avalon borough                 | cape may
+ avon-by-the-sea borough        | monmouth
+ barnegat light borough         | ocean
+ barnegat township              | ocean
+[7m--More--[27m
+[K[?2004hGroup3=# 
+
+SELECT * FROM Area_Info;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;E;l;e;c;t;r;i;c;_;V;e;h;i;c;l;e;s;
+[?2004l
+          municipality          | year | total_personal_vehicles | num_of_evs 
+--------------------------------+------+-------------------------+------------
+ newark city                    | 2020 |                   92490 |        141
+ jersey city city               | 2020 |                   88454 |        737
+ jersey city city               | 2015 |                   81724 |         49
+ newark city                    | 2015 |                   79073 |         20
+ toms river township            | 2020 |                   64822 |        291
+ toms river township            | 2015 |                   61597 |         27
+ edison township                | 2015 |                   60480 |         47
+ hamilton township              | 2020 |                   60294 |        256
+ edison township                | 2020 |                   59239 |        690
+ woodbridge township            | 2020 |                   59139 |        278
+ hamilton township              | 2015 |                   58255 |         32
+ woodbridge township            | 2015 |                   57597 |         26
+ brick township                 | 2020 |                   55314 |        181
+ brick township                 | 2015 |                   53207 |         38
+ elizabeth city                 | 2020 |                   51731 |         85
+ cherry hill township           | 2020 |                   49528 |        531
+ clifton city                   | 2020 |                   49029 |        197
+ paterson city                  | 2020 |                   48712 |         67
+ middletown township            | 2020 |                   46745 |        233
+ cherry hill township           | 2015 |                   46741 |         59
+ middletown township            | 2015 |                   45668 |         32
+[7m--More--[27m
+[K[?2004hGroup3=# 
+
+SELECT * FROM Electric_Vehicles;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;G;r;e;e;n;h;o;u;s;e;_;G;a;s;e;s;
+[?2004l
+          municipality          | year | residential_electricity_ghg | residential_natural_gas_ghg | on_road_vehicles 
+| total_mtco2e 
+--------------------------------+------+-----------------------------+-----------------------------+------------------
++--------------
+ linden city                    | 2015 |                       25447 |                       48727 |           162024 
+|             
+ newark city                    | 2015 |                      120168 |                      322453 |          1024969 
+|             
+ newark city                    | 2020 |                      114156 |                      302925 |          1194028 
+|             
+ ridgefield borough             | 2015 |                        7288 |                       18917 |            34297 
+|             
+ woodbridge township            | 2020 |                       57838 |                      201762 |           522893 
+|             
+ jersey city city               | 2015 |                      138080 |                      256370 |           861958 
+|             
+ linden city                    | 2020 |                       22114 |                       86958 |           198088 
+|             
+ toms river township            | 2020 |                       85512 |                        8099 |           372793 
+|             
+ jersey city city               | 2020 |                      137670 |                      229644 |           573525 
+|             
+ edison township                | 2020 |                       56215 |                      181462 |           623144 
+[7m--More--[27m
+[K[?2004hGroup3=# exit
+[?2004l
+]0;lion@roscoe:~/cab-project-3[?2004h[01;32m[lion@roscoe[01;37m cab-project-3[01;32m]$[00m cat mysession.log
+[?2004l
+Script started on 2023-04-17 16:20:41-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="118" LINES="24"]
+]0;lion@roscoe:~/cab-project-3[?2004h[01;32m[lion@roscoe[01;37m cab-project-3[01;32m]$[00m psql Group33333333[K[K[K[K[K[K[K
+
+[?2004l
+psql (15.1)
+
+Type "help" for help.
+
+
+
+[?2004hGroup3=# S[K\qscript mysession.log
+
+
+SELECT * FROM Gas_Vehicles;
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C                    
+
+
+
+
+[?2004l
+          municipality          | year | passenger_cars | total_miles | total_emmissions 
+
+--------------------------------+------+----------------+-------------+------------------
+
+ aberdeen township              | 2019 |       98786829 |   139502619 |            73388
+
+ aberdeen township              | 2017 |       97772592 |   115779566 |            49604
+
+ absecon city                   | 2015 |       38488232 |   100583104 |            46724
+
+ absecon city                   | 2020 |       25192020 |    62366131 |            32487
+
+ alexandria township            | 2017 |       37796863 |    46619414 |            19086
+
+ alexandria township            | 2019 |       23745754 |    33532759 |            13311
+
+ allamuchy township             | 2017 |       33356655 |    47937196 |            18071
+
+ allamuchy township             | 2019 |       24921165 |    35192623 |            16085
+
+ allendale borough              | 2017 |       42564813 |    58271297 |            30925
+
+ allendale borough              | 2019 |       45353628 |    56912150 |            27772
+
+ allenhurst borough             | 2017 |        2900257 |     3538267 |             1890
+
+ allenhurst borough             | 2019 |        2434390 |     3437744 |             1488
+
+ allentown borough              | 2019 |        8271657 |    11680887 |             4314
+
+ allentown borough              | 2017 |        9534560 |    11111401 |             2812
+
+ alloway township               | 2020 |        9600149 |    26180821 |            13638
+
+ alloway township               | 2015 |        8082447 |    21060214 |             9783
+
+ alpha borough                  | 2017 |       17280979 |    26721594 |            10646
+
+ alpha borough                  | 2019 |       15789766 |    22297646 |            10510
+
+ alpine borough                 | 2017 |       11934465 |    15409607 |             6378
+
+ alpine borough                 | 2019 |        9595838 |    12019549 |             4882
+
+ andover borough                | 2019 |        4278954 |     6042560 |             1964
+
+[7m--More--[27m
+ andover borough                | 2017 |        3565018 |     5057013 |             1911
+
+[7m--More--[27m
+[K[?2004hGroup3=# 
+
+
+SELECT * FROM Gas_Vehicles;[K[K[K[K[K[K[K[K[K[K[K[K[KArea_Info;
+
+[?2004l
+          municipality          |   county   
+
+--------------------------------+------------
+
+ aberdeen township              | monmouth
+
+ absecon city                   | atlantic
+
+ alexandria township            | hunterdon
+
+ allamuchy township             | warren
+
+ allendale borough              | bergen
+
+ allenhurst borough             | monmouth
+
+ allentown borough              | monmouth
+
+ alloway township               | salem
+
+ alpha borough                  | warren
+
+ alpine borough                 | bergen
+
+ andover borough                | sussex
+
+ andover township               | sussex
+
+ asbury park city               | monmouth
+
+ atlantic city city             | atlantic
+
+ atlantic highlands borough     | monmouth
+
+ audubon borough                | camden
+
+ audubon park borough           | camden
+
+ avalon borough                 | cape may
+
+ avon-by-the-sea borough        | monmouth
+
+ barnegat light borough         | ocean
+
+ barnegat township              | ocean
+
+[7m--More--[27m
+[K[?2004hGroup3=# 
+
+
+SELECT * FROM Area_Info;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;[1P;E;l;e;c;t;r;i;c;_;V;e;h;i;c;l;e;s;
+
+[?2004l
+          ]0;lion@roscoe:~/cab-project-3[?2004h[01;32m[lion@roscoe[01;37m cab-project-3[01;32m]$[00m cd
+[?2004l
+]0;lion@roscoe:~[?2004h[01;32m[lion@roscoe[01;37m ~[01;32m]$[
