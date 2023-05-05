@@ -22,5 +22,12 @@ TO RUN OUR INTERFACE
 export FLASK_APP=app.py
 flask run
 ```
+You will see the following interface:
+![image](https://user-images.githubusercontent.com/99513733/236554518-660b6e88-2380-4cb7-beff-f12ef080400d.png)
 
-#You will see the following interface:
+Potential outputs for user inputs:
+![image](https://user-images.githubusercontent.com/99513733/236554556-322ff0b5-553c-4641-a492-ab1d359506ea.png)
+![image](https://user-images.githubusercontent.com/99513733/236554679-c5f43fea-de2b-4ddd-8c5f-8f018f8dcf09.png)
+![image](https://user-images.githubusercontent.com/99513733/236554773-0b03dcb3-41eb-4eb9-aec0-b0d49c61048a.png)
+![image](https://user-images.githubusercontent.com/99513733/236554800-2d1d9858-840a-4998-b783-c91230930de5.png)
+The purpose of our database is to inform people about the increase of greenhouse gases in our environment, and how us people are playing a part in causing this increase. By viewing the data we collected, users become aware of places in New Jersey that are the largest contributers to greenhouse gas emissions, and they may also look at their own areas and see how they contribute to the crisis. This can promote change and spark an interest in people who are dedicated to improving the wellbeing of ourselves and our environment.
